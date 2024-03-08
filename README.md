@@ -5,7 +5,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/biblioscripterstore/lms.git
+git clone https://github.com/biblioscripter/lms.git
 ```
 
 ### Install packages
